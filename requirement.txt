@@ -3,3 +3,7 @@ uvicorn
 pydantic
 textblob
 pytest
+black
+flake8
+isort
+pre-commit
